@@ -2,7 +2,10 @@
 
 Le README est disponible entièrement en français [ici](docs/README-FR.md).
 
-# Language
+# Languages
+  
+  It's important for anyone to have is own languages in the game. So for add one create a issue with ``languages`` tag.
+  ## Table
 
   | Language | Text               | Voice              | Subtitles (:construction:) |
   | -------- | ------------------ | ------------------ | -------------------------- |
