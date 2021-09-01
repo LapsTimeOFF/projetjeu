@@ -9,4 +9,4 @@ jobs:
       - name: "Check file presence"
         uses: JJ/files-present-action@releases/v1
         with:
-          files: "README.md, .gitingnore"
+          files: "README.md, ./Projet Jeu/.gitingnore"
