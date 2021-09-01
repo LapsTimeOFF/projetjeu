@@ -11,3 +11,11 @@ Le README est disponible entièrement en français [ici](docs/README-FR.md).
   | -------- | ------------------ | ------------------ | -------------------------- |
   |  French  | :white_check_mark: | :white_check_mark: | :construction:             |
   |  English | :white_check_mark: | :construction:     | :construction:             |
+
+# Credits
+  
+  3D Models - LapsTimeOFF and leguppysurpate (Aka Natourou)
+  Code - LapsTimeOFF and Vortex280
+  Unity Integration - LapsTimeOFF
+
+  We use Unity Free.

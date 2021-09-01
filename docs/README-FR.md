@@ -11,3 +11,11 @@
   | -------- | ------------------ | ------------------ | -------------------------- |
   | Français | :white_check_mark: | :white_check_mark: | :construction:             |
   | Anglais  | :white_check_mark: | :construction:     | :construction:             |
+
+# Crédits
+  
+  Modèles 3D - LapsTimeOFF et leguppysurpate (Aka Natourou)
+  Code - LapsTimeOFF et Vortex280
+  Intégration dans Unity - LapsTimeOFF
+
+  On utilise Unity Gratuit
