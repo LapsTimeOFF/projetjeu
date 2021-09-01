@@ -14,8 +14,10 @@
 
 # Crédits
   
-  Modèles 3D - LapsTimeOFF et leguppysurpate (Aka Natourou)
-  Code - LapsTimeOFF et Vortex280
-  Intégration dans Unity - LapsTimeOFF
+  | Taches       | LapsTimeOFF        | leguppysurpate     | Vortex280           |
+  | ------------ | ------------------ | ------------------ | ------------------- |
+  |  Modèles 3D  | :white_check_mark: | :white_check_mark: | :x:                 |
+  |  Code        | :white_check_mark: | :x:                | :white_check_mark:  |
+  |  Unity       | :white_check_mark: | :x:                | :x:                 |
 
   On utilise Unity Gratuit

@@ -14,8 +14,10 @@ Le README est disponible entièrement en français [ici](docs/README-FR.md).
 
 # Credits
   
-  3D Models - LapsTimeOFF and leguppysurpate (Aka Natourou)
-  Code - LapsTimeOFF and Vortex280
-  Unity Integration - LapsTimeOFF
+  | Task        | LapsTimeOFF        | leguppysurpate     | Vortex280           |
+  | ----------- | ------------------ | ------------------ | ------------------- |
+  |  3D Models  | :white_check_mark: | :white_check_mark: | :x:                 |
+  |  Code       | :white_check_mark: | :x:                | :white_check_mark:  |
+  |  Unity      | :white_check_mark: | :x:                | :x:                 |
 
   We use Unity Free.
