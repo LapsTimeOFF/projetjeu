@@ -1,7 +1,7 @@
 # Projet Jeu
 
 <p align="center">
-  <img alt="Checking files status" src="https://github.com/actions/labeler/actions/workflows/file-present.yml/badge.svg">
+  [![File presence check](https://github.com/LapsTimeOFF/projetjeu/actions/workflows/file-present.yml/badge.svg)](https://github.com/LapsTimeOFF/projetjeu/actions/workflows/file-present.yml)
 </p>
 
 
