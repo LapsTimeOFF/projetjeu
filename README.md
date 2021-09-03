@@ -1,5 +1,9 @@
 # Projet Jeu
 
+<p align="center">
+  <img alt="Checking files status" src="https://github.com/actions/labeler/actions/workflows/file-present.yml/badge.svg">
+</p>
+
 Le README est disponible entièrement en français [ici](docs/README-FR.md).
 
 # Languages
