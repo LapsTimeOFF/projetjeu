@@ -1,7 +1,7 @@
 # Projet Jeu
 
 <p align="center">
-  [![File presence check](https://github.com/LapsTimeOFF/projetjeu/actions/workflows/file-present.yml/badge.svg)](https://github.com/LapsTimeOFF/projetjeu/actions/workflows/file-present.yml)
+  <img alt="Checking files status" src="https://github.com/LapsTimeOFF/projetjeu/actions/workflows/file-present.yml/badge.svg">
 </p>
 
 Le README est disponible entièrement en français [ici](docs/README-FR.md).
